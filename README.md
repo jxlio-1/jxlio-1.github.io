@@ -1,27 +1,35 @@
-# Portafolio Julio Fierro - Versión 2
+# Hola, soy Julio Fierro 👋
 
-Esta versión incluye una mejora visual del portafolio, con un enfoque más amigable, profesional y atractivo.
+Ingeniero en Informática con 7 años de experiencia en soporte TI,
+infraestructura, automatización, consultoría y desarrollo de soluciones
+tecnológicas.
 
-## Mejoras incorporadas
-- Diseño más limpio y moderno
-- Hero más potente
-- Animaciones al hacer scroll
-- Modo oscuro / claro
-- Proyectos destacados con mockups visuales
-- Galería de evidencias
-- Filtros por categoría
-- Modal con detalle de cada proyecto
-- Integración de imágenes generadas en assets/images
+## 🌐 Portafolio profesional
 
-## Cómo ejecutar
-### Opción 1: con XAMPP
-Copia la carpeta portfolio_julio_v2 dentro de C:\xampp\htdocs\
-Luego abre:
-http://localhost/portfolio_julio_v2/
+👉 https://jxlio-1.github.io/
 
-### Opción 2: con Python
-En la carpeta del proyecto ejecuta:
-python -m http.server 8080 --bind 127.0.0.1
+## 💼 Áreas de experiencia
 
-Y abre:
-http://127.0.0.1:8080/
+- Soporte TI N1, N2 y N3
+- Infraestructura y redes
+- Active Directory
+- Microsoft 365
+- Resolución de incidentes
+- Continuidad operacional
+- Automatización con PowerShell y Python
+- PHP, JavaScript y MySQL
+- Consultoría TI
+- Desarrollo de soluciones internas
+
+## 🚀 Proyectos
+
+He desarrollado soluciones orientadas a gestión de activos TI,
+control operacional, directorios internos, automatización,
+biometría, gestión académica y servicios de soporte.
+
+👉 [Ver proyectos](https://jxlio-1.github.io/)
+
+## 🔗 Perfiles
+
+- [LinkedIn](https://www.linkedin.com/in/julio-fierro-astete-1421301bb/)
+- [Portafolio](https://jxlio-1.github.io/)
